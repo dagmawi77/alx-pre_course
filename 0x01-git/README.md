@@ -1,1 +1,1 @@
-“my second commit”
+Git Exercice for ALX program
