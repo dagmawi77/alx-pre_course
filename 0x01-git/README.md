@@ -1,1 +1,1 @@
-Change the content and commit it
+How to be up to date in git
