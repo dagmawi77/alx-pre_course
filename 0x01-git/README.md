@@ -1,1 +1,1 @@
-Git Exercice for ALX program
+Change the content and commit it
